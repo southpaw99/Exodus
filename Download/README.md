@@ -3,10 +3,10 @@
 # How to Install Exdous On Kodi
 #### By: [PiSaucer](https://github.comPiSaucer)
 ***
-##### Table of Contents  
-*[First](#headers)
+## Table of Contents  
+* [First](#headers)
 
-*[Easy Way](#headers)  
+* [Easy Way](#headers)  
 <a name="headers"/>
 ## First
 ***
