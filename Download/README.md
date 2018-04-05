@@ -17,26 +17,26 @@
 
 2. You boot for the first time (this may take a while)
 
-3. Go to Settings
+3. Go to >Settings
 
-4. Select System Settings
+4. Select >System Settings
 
-5. Select Add-ons 
+5. Select >Add-ons 
 
-6. Turn On Unknown Sources 
+6. Turn On >Unknown Sources 
 
-7. Turn On Notifications
+7. Turn On >Notifications
 
-8. Select Yes.
+8. Select >Yes.
 
-9. From here you have many ways to chose from.
+9. From here you have **many ways** to chose from.
 
-## Easy Way
+## *Easy Way
 
-1. Go to system setting 
+1. Go to >system settings 
 
-2. Select File Manager
+2. Select >File Manager
 
-3. Select Add Source
+3. Select >Add Source
 
-4. Select None
+4. Select >None
