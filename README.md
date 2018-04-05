@@ -1,6 +1,7 @@
 # Exdous
 ### HOME Files: Add on for Kodi
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/icon.png)
+
 Exodus scrapes content (movies, music, videos) from around the web, and brings that for the user to view on their Kodi devices (TV, Boxes, Computers). After it scrapes for movie or TV show links It list the high quality ones at the top.
 
 Exodus is one of the best Movie Addon and seems to be having some but not a lot of 4K streams as well.
