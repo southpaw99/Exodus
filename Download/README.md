@@ -1,7 +1,7 @@
 ![alt text](https://github.com/PiSaucer/Exodus/blob/master/Kodi_logo_logotype.png)
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/icon.png)
 # How to Install Exdous On Kodi
-#### By: [PiSaucer](https://github.comPiSaucer)
+#### By: [PiSaucer](https://github.com/PiSaucer)
 ***
 ## Table of Contents  
 * [First](#headers)
