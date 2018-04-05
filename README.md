@@ -1,5 +1,8 @@
 # Exdous
-### HOME Files: Add on for Kodi
+***
+### THE HOME FILES:
+### Add on for Kodi For Unlimited Movies and T.V. shows for FREE
+***
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/icon.png)
 
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/screenshot-01.jpg)
@@ -37,3 +40,4 @@ For example, Exodus isn't the simplest place to search out foreign films. Though
 
 ***
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/fanart.jpg)
+***
