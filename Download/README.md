@@ -1,4 +1,3 @@
-# Read Me
 # How to Install Exdous On Kodi
-## By: PiSaucer
+#### By: PiSaucer
 First you
