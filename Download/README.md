@@ -3,6 +3,11 @@
 # How to Install Exdous On Kodi
 #### By: [PiSaucer](https://github.comPiSaucer)
 ***
+##### Table of Contents  
+[First](#headers)    
+<a name="headers"/>
+## First
+***
 1. First you [download Kodi](https://kodi.tv)
 
 2. You boot for the first time (this may take a while)
