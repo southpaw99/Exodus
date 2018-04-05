@@ -4,7 +4,8 @@
 #### By: [PiSaucer](https://github.comPiSaucer)
 ***
 ##### Table of Contents  
-[First](#headers)    
+[First](#headers)
+[Easy Way](#headers)  
 <a name="headers"/>
 ## First
 ***
@@ -21,3 +22,9 @@
 6. Turn On Unknown Sources 
 
 7. Select Yes.
+
+8. From here you have many ways to chose from.
+
+## Easy Way
+
+9.
