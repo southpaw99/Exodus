@@ -30,9 +30,13 @@
 8. Select > Yes.
 
 9. From here you have **many ways** to chose from.
+```
+
+***
 
 ## Easy Way
 
+```
 1. Go to > System Settings 
 
 2. Select > File Manager
