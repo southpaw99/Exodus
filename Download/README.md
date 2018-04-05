@@ -4,8 +4,9 @@
 #### By: [PiSaucer](https://github.comPiSaucer)
 ***
 ##### Table of Contents  
-[First](#headers)
-[Easy Way](#headers)  
+*[First](#headers)
+
+*[Easy Way](#headers)  
 <a name="headers"/>
 ## First
 ***
