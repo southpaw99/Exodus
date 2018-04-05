@@ -4,12 +4,12 @@
 #### By: [PiSaucer](https://github.com/PiSaucer)
 ***
 ## Table of Contents  
-* [First](#headers)
+* [Setup](#headers)
 
 * [Easy Way](#headers)  
 <a name="headers"/>
 
-## First
+## Setup
 
 ***
 
@@ -25,10 +25,12 @@
 
 6. Turn On Unknown Sources 
 
-7. Select Yes.
+7. Turn On Notifications
 
-8. From here you have many ways to chose from.
+8. Select Yes.
+
+9. From here you have many ways to chose from.
 
 ## Easy Way
 
-9.
+10.
