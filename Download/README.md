@@ -33,4 +33,10 @@
 
 ## Easy Way
 
-10.
+1. Go to system setting 
+
+2. Select File Manager
+
+3. Select Add Source
+
+4. Select None
