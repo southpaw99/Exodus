@@ -52,3 +52,8 @@
 7. Select > Add-ons
 
 8. Select > Add-on Browser
+
+9. Select > install from Zip File 
+10. Select >  “tva” 
+11. Select > kodi-repos 
+12. Select > repository.xbmchub-x.x.x.zip 
