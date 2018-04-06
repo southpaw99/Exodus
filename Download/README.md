@@ -28,9 +28,9 @@
 7. Turn On > Notifications
 
 8. Select > Yes.
-
-9. From here you have **many ways** to chose from.
 ```
+9. From here you have **many ways** to chose from.
+
 
 ***
 
@@ -44,3 +44,7 @@
 3. Select > Add Source
 
 4. Select > None
+
+5. Type exactly > http://fusion.tvaddons.co
+
+6. Select >Done.
