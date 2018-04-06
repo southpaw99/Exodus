@@ -83,4 +83,5 @@
 ***
 
 ```
-1. Go to
+1. Go to [GitHub Addon](https://github.com/PiSaucer/Exodus/tree/master/GitHub%20Addon)
+
