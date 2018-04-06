@@ -114,7 +114,8 @@
 3. Type > PiSaucer
 
 ```
-***FOLlOW THE ORDER  EXACTLY NO MATTER WHAT***
+***FOLlOW THE ORDER _EXACTLY_ NO MATTER WHAT!!!***
+*It might ask to restart hit no until ALL of them are done*
  ```
 4. Select > repository.exodus-4.0.0.zip
 
