@@ -9,6 +9,13 @@
 
 *** 
 
+## Table of Contents 
+* [What is Exodus?](#Setup)
+
+<a name="headers"/>
+
+## What is Exodus?
+***
 Exodus scrapes content (movies, music, videos) from around the web, and brings that for the user to view on their Kodi devices (TV, Boxes, Computers). After it scrapes for movie or TV show links It list the high quality ones at the top.
 
 Exodus is one of the best Movie Addon and seems to be having some but not a lot of 4K streams as well.
@@ -21,7 +28,7 @@ Exodus is not legal by any means due to which it has been through controversy of
 If you’re searching for a Kodi add-on to stream unlimited and free movies and television shows, you’ve found it in Exodus. The Exodus Kodi addon grants you access to a varied library of online streaming sources, transfer you the most recent movies and television shows straight to Kodi. It’s one amongst the first reliable and complete Kodi video streaming add-ons far and away. It doesn’t compromise either speed or selection and offers an excellent choice of the first recent TV shows and flicks.
 
 ***
-### Exodus Benefits
+## Exodus Benefits
 
 The best factor you’ll notice with Exodus is its extraordinarily large library and spectacular stream quality. Exodus pulls from an outsized variety of sources for all of the TV shows and flicks listed in its information. The information is choked with thousands of films and television shows covering each class. Maybe one in every of the simplest edges is that you’ll notice new unharness movies and new television program episodes similarly as a decent variety of films and television shows geological dating back many decades.
 
@@ -32,7 +39,7 @@ Exodus has one in every of the simplest menu and browsing functions for any addo
 Finally, you'll be able to got wind of numerous accounts to figure with Exodus, together with RealDebrid, Trakt, and AllDebrid.
 
 ***
-### Exodus Limitations
+## Exodus Limitations
 
 The solely real barrier to Exodus is the indisputable fact that it only provides on-demand streams and no live TV. To boot, a number of the TV and moving-picture show classes at intervals Exodus tend to be slightly restricted.
 
