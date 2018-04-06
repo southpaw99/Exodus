@@ -10,7 +10,7 @@
 
 * [Pi Saucer's Way](#pi-saucers-way) 
 
-* [After GitHub is on Kodi](#after-github-is-on-kodi)
+* [After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
 <a name="headers"/>
 
 ## Setup
@@ -100,7 +100,7 @@
 
 ```
 
-## After GitHub is on Kodi
+## After GitHub is on Kodi Method 1
 
 #### By either way: [Pi Saucer's Way](#pi-saucers-way)  or [the Offical GitHub Browser](#offical-github-browser)
 
@@ -137,11 +137,7 @@
 
 13. Install it
 
-```
-
-14. Select > [script.module.urlresolver-4.0.17.zip](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/script.module.urlresolver-4.0.17.zip) 
-
-``
+14. Select > script.module.urlresolver-4.0.17.zip
 
 15. Install it
 
