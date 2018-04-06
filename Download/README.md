@@ -8,11 +8,11 @@
 
 * [Method 1](#method-1)
 
- *[Offical GitHub Browser](#offical-github-browser)
+  *[Offical GitHub Browser](#offical-github-browser)
 
- *[Pi Saucer's Way](#pi-saucers-way) 
+  *[Pi Saucer's Way](#pi-saucers-way) 
 
- *[After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
+  *[After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
 <a name="headers"/>
 
 ## Setup
