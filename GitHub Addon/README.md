@@ -14,7 +14,8 @@ By installing Kodi repositories and addons with the Git Browser, there are a num
 
 Users should also be aware that using Git Browser also has some disadvantages as well:
 
-You have to install Indigo, which has some usefulness in a variety of areas, but not all users may want the full addon.
+* You have to install Indigo, which has some usefulness in a variety of areas, but not all users may want the full addon.
+
 When you install Indigo, you will be bombarded with a popup each time you start Kodi. This popup is easy to dismiss, but it can be annoying seeing an advertisement for TVAddons every time. You CAN disable this popup in the Indigo addons by clicking the “opt out” option for popups.
 Not all Kodi repositories are stored on GitHub. We will do our best in our guides to list which ones are available and which aren’t.
 If you choose to install just the addon after searching with the GitHub Browser and not the full repository, the repo will not install and addons will not auto-update unless the addon has the repo listed as a dependency. This is an option that developers can choose to imlement. This is not the fault of Git Browser, but standard to all Kodi addons. Always make sure you are installing the repository only.
@@ -27,7 +28,7 @@ There is some misinformation about Indigo possibly performing malicious code, in
 **Git Browser TIPS:**
 
 Please ensure that you have the latest version of Kodi when you are using the Git Browser.
-Please make sure that you are installing the REPOSITORY only to ensure that you get all future updates. These filenames are always in the format repository.NAME-x-x-x.zip. Do not install the plugin.video.NAME zip files as this will not get you auto-updates in the future.
+Please make sure that you are installing the REPOSITORY only to ensure that you get all future updates. These filenames are always in the format **repository.NAME-x-x-x.zip**. Do not install the **plugin.video.NAME** zip files as this will not get you auto-updates in the future.
  
 
 If you want to install Kodi addons and repositories quicker and easier, you must first have the Indigo Kodi plugin installed.
