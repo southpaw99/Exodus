@@ -136,3 +136,6 @@
 12. Select > plugin.video.exodus-5.0.0.zip
 
 13. Install it
+
+14. Restart Kodi and Restart the Device  
+```
