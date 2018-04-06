@@ -13,6 +13,8 @@
   * [Pi Saucer's Way](#pi-saucers-way) 
 
   * [After GitHub is on Kodi](#after-github-is-on-kodi-)
+  
+* [Method 2](#method-2)
 <a name="headers"/>
 
 ## Setup
@@ -149,3 +151,6 @@
 16. Restart Kodi and Restart the Device 
 
 ```
+You Done!
+
+## Method 2
