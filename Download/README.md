@@ -154,3 +154,15 @@
 You Done! :smiley: :thumbsup:
 
 ## Method 2
+***
+
+1. Go to the [downloads](https://github.com/PiSaucer/Exodus/tree/master/Download)
+
+2. Download ALL the files
+
+3. Go to [URL Resolver](https://github.com/PiSaucer/Exodus/tree/master/URL%20Resolver)
+
+4. Download [script.module.urlresolver-4.0.17.zip](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/script.module.urlresolver-4.0.17.zip)
+```
+
+5. 
