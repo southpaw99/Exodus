@@ -114,6 +114,14 @@
 3. Type > PiSaucer
 
 ```
-***FOLOW THE ORDER  EXACTLY NO MATTER WHAT***
+***FOLlOW THE ORDER  EXACTLY NO MATTER WHAT***
  ```
-4. Select 
+4. Select > repository.exodus-4.0.0.zip
+
+5. Select > script.module.metahandler-2.9.1.zip
+
+6. Select > script.exodus.metadata-1.0.2.zip
+
+7. Select > script.exodus.artwork-1.0.7.zip
+
+8. Select > plugin.video.exodus-5.0.0.zip
