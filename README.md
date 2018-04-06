@@ -16,6 +16,8 @@
 
 * [Exodus Limitations](#exodus-limitations)
 
+* [Download It](#download)
+
 <a name="headers"/>
 
 ## What is Exodus?
@@ -48,6 +50,10 @@ Finally, you'll be able to got wind of numerous accounts to figure with Exodus, 
 The solely real barrier to Exodus is the indisputable fact that it only provides on-demand streams and no live TV. To boot, a number of the TV and moving-picture show classes at intervals Exodus tend to be slightly restricted.
 
 For example, Exodus isn't the simplest place to search out foreign films. Though you’ll notice a rather long list of films classified by language, for the first half, these area unit yank films with subtitles in different alternative languages. To boot, Exodus lacks a documentary section for its movies, which means you’ll flip elsewhere if you’re a documentary fan. What your probing for may well be there, however, it'll be slightly harder to search out if it’s there the least bit.
+
+## Download
+***
+If you are intersted go to the [Downloads](https://github.com/PiSaucer/Exodus/tree/master/Download) to try out this AMAZING addon.
 
 ***
 ![alt text](https://github.com/PiSaucer/exdous/blob/master/fanart.jpg)
