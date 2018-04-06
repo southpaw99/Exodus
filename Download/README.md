@@ -47,4 +47,8 @@
 
 5. Type exactly > http://fusion.tvaddons.co
 
-6. Select >Done.
+6. Select > Done.
+
+7. Select > Add-ons
+
+8. Select > Add-on Browser
