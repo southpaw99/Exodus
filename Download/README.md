@@ -260,6 +260,27 @@ You Done! :smiley: :thumbsup:
 
 1. Download [kodil.zip](https://github.com/PiSaucer/Exodus/blob/master/Kodil/kodil.zip) From [Kodil](https://github.com/PiSaucer/Exodus/tree/master/Kodil) 
 ```
-2. open > kodi
+2. Open > Kodi
 
-3. 
+3. Select > add-ons
+
+4. Select > add-on browser 
+
+5. Select > install from zip file
+
+6. Select > kodil.zip
+
+7. Select > install
+
+8. Select > install from repository 
+
+9. Select > Kodil repository
+
+10. Select > Video Addons
+
+11. Select > Exdous
+
+12. Select > install
+```
+You Done! :smiley: :thumbsup:
+***
