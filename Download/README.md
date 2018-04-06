@@ -6,7 +6,7 @@
 ## Table of Contents 
 * [Setup](#Setup)
 
-* [Offical GitHub Browser](#Offical GitHub Browser)
+* [Offical GitHub Browser](#offical-github-browser)
 
 * [Pi Saucer's Way](#Pi Saucer's Way) 
 <a name="headers"/>
