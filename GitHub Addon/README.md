@@ -16,9 +16,11 @@ Users should also be aware that using Git Browser also has some disadvantages as
 
 * You have to install Indigo, which has some usefulness in a variety of areas, but not all users may want the full addon.
 
-When you install Indigo, you will be bombarded with a popup each time you start Kodi. This popup is easy to dismiss, but it can be annoying seeing an advertisement for TVAddons every time. You CAN disable this popup in the Indigo addons by clicking the “opt out” option for popups.
-Not all Kodi repositories are stored on GitHub. We will do our best in our guides to list which ones are available and which aren’t.
-If you choose to install just the addon after searching with the GitHub Browser and not the full repository, the repo will not install and addons will not auto-update unless the addon has the repo listed as a dependency. This is an option that developers can choose to imlement. This is not the fault of Git Browser, but standard to all Kodi addons. Always make sure you are installing the repository only.
+* When you install Indigo, you will be bombarded with a popup each time you start Kodi. This popup is easy to dismiss, but it can be annoying seeing an advertisement for TVAddons every time. You CAN disable this popup in the Indigo addons by clicking the “opt out” option for popups.
+
+* Not all Kodi repositories are stored on GitHub. We will do our best in our guides to list which ones are available and which aren’t.
+
+* If you choose to install just the addon after searching with the GitHub Browser and not the full repository, the repo will not install and addons will not auto-update unless the addon has the repo listed as a dependency. This is an option that developers can choose to imlement. This is not the fault of Git Browser, but standard to all Kodi addons. Always make sure you are installing the repository only.
  
 
 There is some misinformation about Indigo possibly performing malicious code, installing, or uninstalling other addons currently, which is simply not true.
