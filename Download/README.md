@@ -96,4 +96,10 @@
 
 6. Select > Where ever you save the plugin.git.browser-master.zip 
 
-7.
+```
+
+## After GitHub is on Kodi
+***
+
+```
+1.
