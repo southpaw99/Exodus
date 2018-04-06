@@ -121,7 +121,7 @@
 3. Type > PiSaucer
 
 ```
-**FOLlOW THE ORDER _EXACTLY_ NO MATTER WHAT!!!**
+**FOLLOW THE ORDER _EXACTLY_ NO MATTER WHAT!!!**
 *It might ask to restart hit no until ALL of them are done*
  ```
 4. Select > repository.exodus-4.0.0.zip
@@ -174,7 +174,7 @@ You Done! :smiley: :thumbsup:
 8. Select > install from zip file
 
 ```
-**FOLlOW THE ORDER _EXACTLY_ NO MATTER WHAT!!!**
+**FOLLOW THE ORDER _EXACTLY_ NO MATTER WHAT!!!**
 *It might ask to restart hit no until ALL of them are done*
  ```
 9. Select > repository.exodus-4.0.0.zip
