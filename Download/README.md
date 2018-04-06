@@ -64,3 +64,13 @@
 13. Select > kodi-repos 
 
 14. Select > repository.xbmchub-x.x.x.zip 
+
+15. Select > install from repository 
+
+16. Select > TVAddons.co repository
+
+17. Select > Services
+
+18. Select > Git Browser
+
+19. Select > Install
