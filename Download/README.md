@@ -107,4 +107,9 @@
 ***
 
 ```
-1.
+1. Launch > the GitHub Browser add-on from your program addons page
+
+2. Select > search by GitHub Username
+
+3. Type > PiSaucer
+
