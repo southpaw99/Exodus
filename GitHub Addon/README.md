@@ -1,4 +1,5 @@
 # GitHub Addon
+![alt text](https://github.com/PiSaucer/Exodus/blob/master/GitHub%20Addon/git-browser-kodi-icon.jpg)
 ***
 
 The Git Browser for quickly installing Kodi repositories is now available as a standalone addon to install. This means that you no longer need the Indigo addon installed in order to use the functionality! Git Browser still exists inside of Indigo for those that want to take advantage of its other features as well. Git Browser simplifies the process of installing repositories and addons for new and inexperienced users greatly, allowing you to get the best Kodi addons quicker and easier.
