@@ -212,33 +212,35 @@ You Done! :smiley: :thumbsup:
 ## Method 3 - Offical Kodil
 
 ```
-1. Go to > System Settings 
+1. Open > Kodi
 
-2. Select > File Manager
+2. Go to > System Settings 
 
-3. Select > Add Source
+3. Select > File Manager
 
-4. Select > None
+4. Select > Add Source
 
-5. Type exactly > http://kdil.co/repo/
+5. Select > None
 
-6. Select > Done.
+6. Type exactly > http://kdil.co/repo/
 
-7. Highlight the box underneath and enter a name for this media Source, “Kodil”.
+7. Select > Done.
 
-8. Select > ok
+8. Highlight the box underneath and enter a name for this media Source, “Kodil”.
 
-9. Select > Add-ons
+9. Select > ok
 
-10. Select > Add-on Browser
+10. Select > Add-ons
 
-11. Select > install from Zip File 
+11. Select > Add-on Browser
 
-12. Select >  “Kodil” 
+12. Select > install from Zip File 
 
-13. Select > kodil.zip   
+13. Select >  “Kodil” 
 
-14. Select > install from repository 
+14. Select > kodil.zip   
+
+15. Select > install from repository 
 
 16. Select > Kodil repository
 
@@ -249,3 +251,5 @@ You Done! :smiley: :thumbsup:
 19. Select > Install
 
 ```
+You Done! :smiley: :thumbsup:
+***
