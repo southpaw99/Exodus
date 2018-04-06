@@ -49,11 +49,18 @@
 
 6. Select > Done.
 
-7. Select > Add-ons
+7. Highlight the box underneath and enter a name for this media Source, “tva”.
 
-8. Select > Add-on Browser
+8. Select > ok
 
-9. Select > install from Zip File 
-10. Select >  “tva” 
-11. Select > kodi-repos 
-12. Select > repository.xbmchub-x.x.x.zip 
+9. Select > Add-ons
+
+10. Select > Add-on Browser
+
+11. Select > install from Zip File 
+
+12. Select >  “tva” 
+
+13. Select > kodi-repos 
+
+14. Select > repository.xbmchub-x.x.x.zip 
