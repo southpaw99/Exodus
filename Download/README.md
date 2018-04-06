@@ -211,4 +211,41 @@ You Done! :smiley: :thumbsup:
 
 ## Method 3
 
-1. 
+```
+1. Go to > System Settings 
+
+2. Select > File Manager
+
+3. Select > Add Source
+
+4. Select > None
+
+5. Type exactly > http://kdil.co/repo/
+
+6. Select > Done.
+
+7. Highlight the box underneath and enter a name for this media Source, “Kodil”.
+
+8. Select > ok
+
+9. Select > Add-ons
+
+10. Select > Add-on Browser
+
+11. Select > install from Zip File 
+
+12. Select >  “Kodil” 
+
+13. Select > kodil.zip   
+
+14. Select > install from repository 
+
+16. Select > TVAddons.co repository
+
+17. Select > Services
+
+18. Select > Git Browser
+
+19. Select > Install
+
+```
