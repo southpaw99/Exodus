@@ -10,7 +10,11 @@
 *** 
 
 ## Table of Contents 
-* [What is Exodus?](#Setup)
+* [What is Exodus?](#what-is-exodus)
+
+* [Exodus Benefits](#exodus-benefits)
+
+* [Exodus Limitations](#exodus-limitations)
 
 <a name="headers"/>
 
