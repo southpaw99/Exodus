@@ -12,7 +12,7 @@
 
   * [Pi Saucer's Way](#pi-saucers-way) 
 
-  * [After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
+  * [After GitHub is on Kodi](#after-github-is-on-kodi-)
 <a name="headers"/>
 
 ## Setup
@@ -105,7 +105,7 @@
 
 ```
 
-## After GitHub is on Kodi Method 1
+## After GitHub is on Kodi
 
 #### By either way: [Pi Saucer's Way](#pi-saucers-way)  or [the Offical GitHub Browser](#offical-github-browser)
 
