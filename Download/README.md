@@ -113,3 +113,7 @@
 
 3. Type > PiSaucer
 
+```
+**FOLOW THE ORDER  EXACTLY NO MATTER WHAT
+ ```
+4. Select 
