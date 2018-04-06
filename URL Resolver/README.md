@@ -1,4 +1,5 @@
-# URL Resolver
+# URL Resolver 
+![alt text](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/URLResolver%20icon.jpg)
 ***
 
 URLResolver was originally created by TVAddons (source: http://fusion.tvaddons.co) and they store the official version. A few other repositories may also be hosting the addon update.
