@@ -137,5 +137,14 @@
 
 13. Install it
 
-14. Restart Kodi and Restart the Device  
+```
+
+14. Select > [script.module.urlresolver-4.0.17.zip](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/script.module.urlresolver-4.0.17.zip) 
+
+``
+
+15. Install it
+
+16. Restart Kodi and Restart the Device 
+
 ```
