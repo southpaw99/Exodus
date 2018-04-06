@@ -17,6 +17,8 @@
 * [Method 2](#method-2)
 
 * [Method 3 - Offical Kodil](#method-3---offical-kodil)
+
+* [Method 4 - Pi Saucer's Kodil](#method-4---pi-saucer's-kodil)
 <a name="headers"/>
 
 ## Setup
@@ -253,3 +255,7 @@ You Done! :smiley: :thumbsup:
 ```
 You Done! :smiley: :thumbsup:
 ***
+
+## Method 4 - Pi Saucer's Kodil
+
+1.
