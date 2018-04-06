@@ -12,8 +12,8 @@
 <a name="headers"/>
 
 ## Setup
-
 ***
+
 ```
 1. First you [download Kodi](https://kodi.tv)
 
@@ -80,3 +80,7 @@
 ```
 
 ## Pi Saucer's Way
+***
+
+```
+1. Go to
