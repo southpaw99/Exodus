@@ -16,8 +16,8 @@
 ## Setup
 ***
 
-```
 1. First you [download Kodi](https://kodi.tv)
+```
 
 2. You boot for the first time (this may take a while)
 
