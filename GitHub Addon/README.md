@@ -34,3 +34,5 @@ Please make sure that you are installing the REPOSITORY only to ensure that you 
  
 
 If you want to install Kodi addons and repositories quicker and easier, you must first have the Indigo Kodi plugin installed.
+
+***
