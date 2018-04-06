@@ -12,3 +12,5 @@ The URLResolver Kodi add-on works in the background of Kodi (called a dependency
 URLResolver is automatically installed with any add-on that uses it, so you probably have the latest Kodi URLResolver update on your box without event knowing it.
 
 ***
+
+![alt text](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/URLResolver%20Addon.png)
