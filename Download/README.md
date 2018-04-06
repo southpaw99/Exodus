@@ -158,11 +158,19 @@ You Done! :smiley: :thumbsup:
 
 1. Go to the [downloads](https://github.com/PiSaucer/Exodus/tree/master/Download)
 
-2. Download ALL the files
+2. Download ALL the files individually
 
 3. Go to [URL Resolver](https://github.com/PiSaucer/Exodus/tree/master/URL%20Resolver)
 
 4. Download [script.module.urlresolver-4.0.17.zip](https://github.com/PiSaucer/Exodus/blob/master/URL%20Resolver/script.module.urlresolver-4.0.17.zip)
 ```
 
-5. 
+5. Open > Kodi
+
+6. Select > add-ons
+
+7. Select> qdd-on browser 
+
+8. Select > install from zip file
+
+9.
