@@ -82,6 +82,9 @@
 ## Pi Saucer's Way
 ***
 
-```
 1. Go to [GitHub Addon](https://github.com/PiSaucer/Exodus/tree/master/GitHub%20Addon)
 
+```
+2. Download the plugin.git.browser-master.zip file to a place you will be able to find it
+
+3.
