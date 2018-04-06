@@ -6,7 +6,9 @@
 ## Table of Contents  
 * [Setup](#headers)
 
-* [Offical GitHub Browser](#headers)  
+* [Offical GitHub Browser](#headers)
+
+* [Pi Saucer's Way](#headers) 
 <a name="headers"/>
 
 ## Setup
@@ -74,3 +76,7 @@
 18. Select > Git Browser
 
 19. Select > Install
+
+```
+
+## Pi Saucer's Way
