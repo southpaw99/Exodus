@@ -118,10 +118,20 @@
  ```
 4. Select > repository.exodus-4.0.0.zip
 
-5. Select > script.module.metahandler-2.9.1.zip
+5. Install it
 
-6. Select > script.exodus.metadata-1.0.2.zip
+6. Select > script.module.metahandler-2.9.1.zip
 
-7. Select > script.exodus.artwork-1.0.7.zip
+7. Install it
 
-8. Select > plugin.video.exodus-5.0.0.zip
+8. Select > script.exodus.metadata-1.0.2.zip
+
+9. Install it
+
+10. Select > script.exodus.artwork-1.0.7.zip
+
+11. Install it
+
+12. Select > plugin.video.exodus-5.0.0.zip
+
+13. Install it
