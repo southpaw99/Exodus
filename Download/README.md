@@ -6,7 +6,7 @@
 ## Table of Contents  
 * [Setup](#headers)
 
-* [Easy Way](#headers)  
+* [Offical GitHub Browser](#headers)  
 <a name="headers"/>
 
 ## Setup
@@ -34,7 +34,7 @@
 
 ***
 
-## Easy Way
+## Offical GitHub Browser
 
 ```
 1. Go to > System Settings 
