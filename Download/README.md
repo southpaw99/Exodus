@@ -9,6 +9,8 @@
 * [Offical GitHub Browser](#offical-github-browser)
 
 * [Pi Saucer's Way](#pi-saucers-way) 
+
+* [After GitHub is on Kodi](#after-github-is-on-kodi)
 <a name="headers"/>
 
 ## Setup
@@ -99,6 +101,9 @@
 ```
 
 ## After GitHub is on Kodi
+
+#### By either way: [Pi Saucer's Way](#pi-saucers-way)  or [the Offical GitHub Browser](#offical-github-browser)
+
 ***
 
 ```
