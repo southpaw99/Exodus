@@ -16,7 +16,7 @@
   
 * [Method 2](#method-2)
 
-* [Method 3](#method-3)
+* [Method 3 - Offical Kodil](#method-3---offical-kodil)
 <a name="headers"/>
 
 ## Setup
@@ -209,7 +209,7 @@ You Done! :smiley: :thumbsup:
 You Done! :smiley: :thumbsup:
 ***
 
-## Method 3
+## Method 3 - Offical Kodil
 
 ```
 1. Go to > System Settings 
@@ -240,11 +240,11 @@ You Done! :smiley: :thumbsup:
 
 14. Select > install from repository 
 
-16. Select > TVAddons.co repository
+16. Select > Kodil repository
 
-17. Select > Services
+17. Select > Video Addons
 
-18. Select > Git Browser
+18. Select > Exdous
 
 19. Select > Install
 
