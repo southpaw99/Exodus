@@ -258,4 +258,8 @@ You Done! :smiley: :thumbsup:
 
 ## Method 4 - Pi Saucer's Kodil
 
-1. Download [kodil.zip](https://github.com/PiSaucer/Exodus/blob/master/Kodil/kodil.zip)
+1. Download [kodil.zip](https://github.com/PiSaucer/Exodus/blob/master/Kodil/kodil.zip) From [Kodil](https://github.com/PiSaucer/Exodus/tree/master/Kodil) 
+```
+2. open > kodi
+
+3. 
