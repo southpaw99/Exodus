@@ -86,5 +86,14 @@
 
 
 2. Download the [plugin.git.browser-master.zip](https://github.com/PiSaucer/Exodus/blob/master/GitHub%20Addon/plugin.git.browser-master.zip) file to a place you will be able to find it
+
 ```
-3.
+3. Select > Add-ons
+
+4. Select > Add-on Browser 
+
+5. Select > Install from Zip File 
+
+6. Select > Where ever you save the plugin.git.browser-master.zip 
+
+7.
