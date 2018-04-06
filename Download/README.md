@@ -151,6 +151,6 @@
 16. Restart Kodi and Restart the Device 
 
 ```
-You Done!
+You Done! :smiley: :thumbsup:
 
 ## Method 2
