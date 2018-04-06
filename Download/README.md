@@ -6,7 +6,7 @@
 ## Table of Contents 
 * [Setup](#Setup)
 
-* [Method 1](#method-1)
+* [Method 1 - Best Option But Harder](#method-1---best-option-but-harder)
 
   * [Offical GitHub Browser](#offical-github-browser)
 
@@ -43,7 +43,7 @@
 
 
 ***
-## Method 1
+## Method 1 - Best Option But Harder
 
 ***
 
@@ -155,7 +155,7 @@
 ```
 You Done! :smiley: :thumbsup:
 
-## Method 2
+## Method 2 
 ***
 
 1. Go to the [downloads](https://github.com/PiSaucer/Exodus/tree/master/Download)
