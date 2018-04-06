@@ -6,11 +6,13 @@
 ## Table of Contents 
 * [Setup](#Setup)
 
-* [Offical GitHub Browser](#offical-github-browser)
+* [Method 1](#method-1)
 
-* [Pi Saucer's Way](#pi-saucers-way) 
+** [Offical GitHub Browser](#offical-github-browser)
 
-* [After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
+** [Pi Saucer's Way](#pi-saucers-way) 
+
+** [After GitHub is on Kodi Method 1](#after-github-is-on-kodi-method-1)
 <a name="headers"/>
 
 ## Setup
@@ -35,6 +37,9 @@
 ```
 9. From here you have **many ways** to chose from.
 
+
+***
+## Method 1
 
 ***
 
